@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f299a513.chunk.css",
+    "main.js": "/static/js/main.112ddf75.chunk.js",
+    "main.js.map": "/static/js/main.112ddf75.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf9f4589.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf9f4589.js.map",
+    "static/js/2.400aa8fd.chunk.js": "/static/js/2.400aa8fd.chunk.js",
+    "static/js/2.400aa8fd.chunk.js.map": "/static/js/2.400aa8fd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2822c6df785b93c037b6971707de3c0f.js": "/precache-manifest.2822c6df785b93c037b6971707de3c0f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f299a513.chunk.css.map": "/static/css/main.f299a513.chunk.css.map",
+    "static/js/2.400aa8fd.chunk.js.LICENSE.txt": "/static/js/2.400aa8fd.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/static/media/avatar.682410c0.png",
+    "static/media/cosurf-previews.png": "/static/media/cosurf-previews.0b60b7d9.png",
+    "static/media/cosurf.png": "/static/media/cosurf.7813cd80.png",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/foncia-previews.png": "/static/media/foncia-previews.38269cf0.png",
+    "static/media/ifeelsmart-home.png": "/static/media/ifeelsmart-home.43e74044.png",
+    "static/media/ifeelsmart.png": "/static/media/ifeelsmart.4dc03c2f.png",
+    "static/media/molotov-home.png": "/static/media/molotov-home.12dde2ce.png",
+    "static/media/molotov.png": "/static/media/molotov.832a075f.png",
+    "static/media/netvibes-preview.png": "/static/media/netvibes-preview.09901f72.png",
+    "static/media/netvibes.png": "/static/media/netvibes.dfc4ae98.png",
+    "static/media/popsiit.png": "/static/media/popsiit.54f8c9d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9f4589.js",
+    "static/js/2.400aa8fd.chunk.js",
+    "static/css/main.f299a513.chunk.css",
+    "static/js/main.112ddf75.chunk.js"
+  ]
+}
